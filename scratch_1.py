@@ -7,7 +7,7 @@ connect = pg.connect(database='stockdb'
                      , host='142.93.196.0'
                      , port='5432'
                      , user='stock'
-                     ,password='Xaichung2019')
+                     ,password='???')
 
 cursor = connect.cursor()
 
